@@ -19,23 +19,22 @@
 */
 
 /*============
-  1. css selectors
+  1. css selectors (default browser setting)
   ============*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font: 19px;
 }
 /*=========
-  2. global
+  2. global (body of html)
   =========*/
 body {
   background-color: #d9dcd6;
 }
 
 /*============
-  3. css varaible
+  3. css varaible (simplicity and key features)
   ============*/
 :root {
   --font-white: #ffffff;
@@ -49,7 +48,7 @@ body {
 }
 
 /*============
-  4. nav
+  4. navigation of Horiseon page.
   ============*/
 
 .header {
@@ -109,11 +108,11 @@ a {
   justify-content: space-between;
   padding: 20px;
 }
-
+/* main content  */
 .main {
   width: 80%;
 }
-
+/* right side content */
 .right-content {
   width: 20%;
   padding: 20px;
@@ -124,6 +123,10 @@ a {
 
 /*============
   7. right content 
+            Right pannel 
+            1. lead generation
+            2. brand awareness
+            3. cost management
 ============*/
 
 .benfit-section,
@@ -158,6 +161,10 @@ a {
 
 /*============
   8. content main strcuture
+        Main content 
+            1. search engine optimization
+            2. online reputation managment
+            3. social media marketing
 ============*/
 
 .search-engine-optimization,
