@@ -6,9 +6,11 @@ This is an on-the-job ticket to have the client's website be more accessible for
  
  1 x README.md
  
- 1 x images folder containing 8 png images
+ 1 x images folder 
+  Thus containing 8 png images
  
- 1 x css folder containing 1 style.css
+ 1 x css folder 
+  Thus containing 1 style.css
 
 # HTML, CSS, and Git: Code Refactor
 
